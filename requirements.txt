@@ -1,2 +1,0 @@
-disord.py
-python-dotenv
