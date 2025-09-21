@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Some Slash Commands<br>📚 Reads messages and run custom search algorithm<br>🎯 embed messages and discord ui buttons<br>🎲 Receive DM messages and check for image link then send it to is's admin</p>
+<p align="left">✨ Several Slash Commands<br>📚 Reads messages and run custom search algorithm<br>🎯 embed messages and discord ui buttons<br>🎲 Receive DM messages and check for image link then send it to is's admin</p>
 
 ###
 
